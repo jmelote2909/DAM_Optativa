@@ -1,0 +1,11 @@
+mes,plataforma,clics,impresiones,conversiones
+Enero,Facebook,3400,150000,120
+Enero,Instagram,4100,170000,150
+Enero,Twitter,900,60000,45
+Febrero,Facebook,3200,140000,110
+Febrero,Instagram,3900,160000,140
+Febrero,Twitter,950,58000,50
+Marzo,Facebook,3700,155000,130
+Marzo,Instagram,4300,175000,160
+Marzo,Twitter,1000,62000,55
+

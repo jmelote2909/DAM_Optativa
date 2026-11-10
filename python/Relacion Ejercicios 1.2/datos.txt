@@ -1,0 +1,6 @@
+edad,ciudad,satisfacción
+25,Madrid,4
+30,Barcelona,3
+22,Valencia,5
+35,Madrid,2
+28,Sevilla,4

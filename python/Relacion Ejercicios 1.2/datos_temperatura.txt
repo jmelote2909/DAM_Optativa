@@ -1,0 +1,5 @@
+Ciudad,Temperatura
+Madrid,32
+Barcelona,30
+Sevilla,35
+Valencia,31

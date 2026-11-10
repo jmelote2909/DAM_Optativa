@@ -1,0 +1,6 @@
+modelo1,accuracy,0.85
+modelo1,loss,0.20
+modelo2,accuracy,0.78
+modelo2,loss,0.25
+modelo3,accuracy,0.90
+modelo3,loss,0.15
