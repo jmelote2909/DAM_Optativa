@@ -1,0 +1,13 @@
+Examen UD1 - Optativa de Programación Python aplicado a la Inteligencia Artificial
+Autor/a: Jesús Meléndez Oteros
+Fecha: 10/11/2026
+Solución
+-----------------------------------------------------------------------------------------
+Número total de productos: 100
+Precio medio: 530.70€
+Producto mas vendido: Impresora (99unidades)
+Importe total por categoria:
+ - Electrónica: 1368415.66€
+ - Oficina: 1133995.66€
+ - Accesorios: 398235.3€
+
